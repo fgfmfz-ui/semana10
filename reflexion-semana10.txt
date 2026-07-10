@@ -1,0 +1,8 @@
+Las metodologías ágiles son una buena forma de organizar el trabajo porque permiten avanzar paso a paso y hacer mejoras durante el proceso.
+Tener un backlog ayuda a identificar cuáles son las tareas más importantes y realizarlas en el orden adecuado. La automatización también
+es muy útil, ya que ahorra tiempo en tareas repetitivas y reduce la posibilidad de cometer errores. Herramientas como n8n facilitan la
+creación de flujos de trabajo sin necesidad de programar todo desde cero. Por su parte, Telegram permite mantener una comunicación
+rápida entre los miembros del equipo y enviar avisos cuando ocurre algún evento importante. Todo esto mejora la organización,
+el seguimiento de las actividades y la colaboración entre las personas. Además, mantener informada a la comunidad fortalece
+la participación y genera mayor confianza. Siempre es importante utilizar estas herramientas de forma responsable para proteger
+la información personal y sensible.
